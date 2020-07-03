@@ -6,7 +6,7 @@ changruf@andrew.cmu.edu | 412-370-5018 | https://www.linkedin.com/in/changrui-fi
 ## Carnegie Mellon University, Pittsburgh, PA                                                    			   
 - Master of Information Systems Management (with Regional Education Scholarship)		   Dec  2021
 - Bachelor of Science in Materials Science & Engineering, Additional Major in Statistics 	    May 2020
-- Graduated with University and College Honors Cumulative GPA: 3.6/4.0 Additional Major GPA: 3.76/4.0   
+- Graduated with University and College Honors
 
 # Work and Research Experience
 
