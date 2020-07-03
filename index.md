@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+## Changrui(Fiona) Fan
+changruf@andrew.cmu.edu | 412-370-5018 | https://www.linkedin.com/in/changrui-fiona-fan-40653310a/
 
-You can use the [editor on GitHub](https://github.com/FionaFFF/FionaFFF.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# Education
 ```markdown
-Syntax highlighted code block
+Carnegie Mellon University, Pittsburgh, PA                                                    			   
+Master of Information Systems Management (with Regional Education Scholarship)		   Dec  2021
+Bachelor of Science in Materials Science & Engineering, Additional Major in Statistics 	    May 2020
+Graduated with University and College Honors 
+Cumulative GPA: 3.6/4.0 Additional Major GPA: 3.76/4.0   
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+# Work and Research Experience
+```markdown
+Backend Onboard Infrastructure Intern, Rewrite The Code     		 — June 2020 – August 2020
+•	Created a new gamification onboarding experience for new members, and improved backend infrastructures
+•	Team 2 leader of the Onboard Infrastructure interns, responsible for project management, 
+  communicating with mentors and organizing weekly stand-ups
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Battery System Engineer Intern, Daimler Trucks North America LLC          — May 2019 – August 2019
+•	Proposed a high-level business case of battery second-life applications,
+  and performed both technical and economic viability analysis
+•	Conducted a thermal simulation of the battery pack using MATLAB Simulink and Simscape
+•	Analyzed battery degradation behaviors based on different vehicle use cases
 
-### Jekyll Themes
+Small Undergraduate Research Grant Recipient and College Honors Research Program, CMU   					 — January 2019 – present
+•	Apply an autoregressive model to define the time-dependent degradation behavior
+  of aged batteries with limited cell data
+•	Research lithium-ion battery second-life degradation mechanism across different cathode chemistries
+•	Propose a battery second-life repurposing strategy to maximize its residual values
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FionaFFF/FionaFFF.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Single-cell RNA sequencing High Dimensional Mouse Cortex Cell Type Data Analysis, CMU	           — April 2020 
+•	Studied mouse cortex cell types using unsupervised learning
+•	applied Applied Uniform Manifold Approximation and Projection (UMAP) for high-dimension reduction
+•	Applied a Shared Nearest Neighbor (SNN) graph and quasi-clique algorithm to cluster cell types
+•	Tuned clustering hyperparameters using Adjusted Rand Index and Silhouette Width Index
 
-### Support or Contact
+Undergraduate Teaching Assistant, Department of Mathematics, CMU            — August 2017 – December 2017
+•	Differential and Integral Calculus: largest Math class on campus
+•	Led recitations of 35 people, maintained weekly office hours, graded homework, quizzes and exams
+•	Offered review sessions for more than 400 people 
+•	Collaborated with other TAs to create weekly recitation materials
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Real World Engineering Ford Program, CMU and the Ford Motor Company	                   — March 2017 
+•	Selected as one of the 15 engineering students to network with professional engineers, 
+  shadow mentors, and tour different departments
+
+```
+# Technical Skills
+
+- Technical skills: R, SQL, Python, Java, C/C++, Excel, CSS/HTML, JavaScript, MATLAB, Tableau, Adobe Photoshop/Illustrator/Indesign
+- Spoken Languages: Proficient in Mandarin and English, conversational in French, Korean and Japanese
+- Musical Instruments: electronic keyboard (10 years), French Horn (5 years), Acoustic Guitar (1 year)
+
+# Projects
+- Personal website							 		—  May 2020
+http://www.fionafan.me/ Created the portfolio website using CSS/HTML5/JS.
+- Ice Hockey Goalie Helmet Redesign with Covestro AG.              	       —  March 2019 – present
+The helmet design was chosen to form an intellectual property licensing agreement with Covestro
+Redesigned the goalie helmet shape to have better aerodynamics; Reengineered the cushion layers with new materials to redistribute the impact force more efficiently
+- Easy Travel, Fundamentals of Programming Individual Final Project     			 — Dec 2016
+https://www.youtube.com/watch?v=QM9VgEX7hHU
+Created a website that provides personalized traveling plans: used web scraping for real-time flight information and developed an algorithm to provide hotels recommendation based on users’ choices of tourist attractions and time
+
+
+# Leadership and Activities
+- Undergraduate Student Board Representative of CIT Pulse Committee, College of Engineering, Carnegie Mellon University, 2017- present
+- Leading Actress in Ne Zha Conquers the Sea, the Largest Annual Culture Gala, Carnegie Mellon University, April 2018                                       
+
